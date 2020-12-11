@@ -4,7 +4,8 @@ border:2px solid black;border-radius: 8px
 h2{
 	background-color:#217969;font-style:italic
 }
-h1 { color:  #d04764; font-family: "Great Vibes", cursive; font-size: 165px; line-height: 160px; font-weight: normal; margin-bottom: 0px; margin-top: 40px; text-align: center; text-shadow: 0 1px 1px #fff; }
+h1 { color:  #d04764; font-family: "Great Vibes", cursive; font-size: 145px; line-height: 160px; font-weight: normal; margin-bottom: 0px; margin-top: 40px; text-align: center; text-shadow: 0 1px 1px #fff; 
+}
 body {
-  background-color: #b0cce8;
+  background-color: #b0cce8;font-family:"Great Vibes", cursive;
 }
